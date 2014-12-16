@@ -1,6 +1,6 @@
 ## Sublime Text Build Tools
 
-![Alt text](/sublime_text_icon.png?raw=true "Sublime Text")
+![Alt text](/sublimetext_icon.png?raw=true "Sublime Text")
 
 Sublime build tool integrations by Sam Saint-Pettersen. 
 
