@@ -1,7 +1,10 @@
 ## Sublime Text Build Tools
 
+![Alt text](/sublime_text_icon.png?raw=true "Sublime Text")
+
 Sublime build tool integrations by Sam Saint-Pettersen. 
-*[P] Requires Python.*
+
+*[P] Integration requires Python.*
 
 * Gaudi - invoke [Gaudi](https://github.com/stpettersens/Gaudi) build tool on current JSON build file.
 * JSDoc - invoke [JSDoc](https://github.com/jsdoc3/jsdoc) on current JavaScript file. [P].
