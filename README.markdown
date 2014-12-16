@@ -1,6 +1,7 @@
 ## Sublime Text Build Tools
 
 ![Alt text](/sublimetext_icon.png?raw=true "Sublime Text")
+![Alt Text](/atom_icon.png?raw=true "Atom")
 
 Sublime and Atom build tool integrations by Sam Saint-Pettersen. 
 
