@@ -1,4 +1,4 @@
-## sublimetext-buildtools
+## Sublime Text Build Tools
 
 Sublime build tool integrations by Sam Saint-Pettersen. 
 *[P] Requires Python.*
