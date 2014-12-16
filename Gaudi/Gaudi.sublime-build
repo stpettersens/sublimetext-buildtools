@@ -1,5 +1,5 @@
 {
-	"cmd": ["gaudi"],
+	"cmd": ["gaudi", "-f", "$file"],
 	"working_dir": "${project_path:${folder}}",
 	"selector": "source.json"
 }
