@@ -9,7 +9,7 @@
 
 *[A] Atom integration, requires installation of [build-systems](https://atom.io/packages/build-systems).*
 
-*[P] Integration requires Python.*
+*[P] Integration requires [Python](https://www.python.org).*
 
 #### Modules
 
