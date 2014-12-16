@@ -1,0 +1,4 @@
+{
+	"cmd": ["python", "$packages/User/jsdoc_all.py", "$file_path", ".."],
+	"working_dir": "${project_path:${folder}}"
+}

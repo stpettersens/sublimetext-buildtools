@@ -1,0 +1,5 @@
+{
+	"cmd": ["python", "$packages/User/jsdoc.py", "$file"],
+	"working_dir": "${project_path:${folder}}",
+	"selector": "source.js"
+}
