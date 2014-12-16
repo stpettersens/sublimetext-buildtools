@@ -3,7 +3,7 @@
 ![Alt text](/sublimetext_icon.png?raw=true "Sublime Text")
 ![Alt Text](/atom_icon.png?raw=true "Atom")
 
-Sublime and Atom build tool integrations by Sam Saint-Pettersen. 
+[Sublime](http://www.sublimetext.com) and [Atom](https://atom.io) build tool integrations by Sam Saint-Pettersen. 
 
 *[S] Sublime Text integration, copy files within a module folder to Packages/User directory.*
 
