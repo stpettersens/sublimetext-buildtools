@@ -1,0 +1,4 @@
+{
+	"cmd": ["python", "$packages/User/apigen_all.py", "$folder", "doc"],
+	"working_dir": "${project_path:${folder}}",
+}

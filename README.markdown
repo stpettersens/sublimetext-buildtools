@@ -13,6 +13,8 @@
 
 #### Modules
 
-* Gaudi - invoke [Gaudi](https://github.com/stpettersens/Gaudi) build tool on current JSON build file. [S]
+* ApiGen (PHP) - invoke [ApiGen](https://github.com/apigen/apigen) on current PHP file. [S][P].
+* ApiGen All (PHP) - invoke ApiGen on all PHP files in current directory. [S][P].
+* Gaudi - invoke [Gaudi](https://github.com/stpettersens/Gaudi) build tool on current JSON build file. [S].
 * JSDoc - invoke [JSDoc](https://github.com/jsdoc3/jsdoc) on current JavaScript file. [S][P].
 * JSDoc All - invoke JSDoc on all JavaScript files in current directory. [S][P].
