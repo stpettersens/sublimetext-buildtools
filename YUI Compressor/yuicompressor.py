@@ -6,8 +6,9 @@ from subprocess import call
 
 def invokeYUICompressor(File):
 	pattern = re.compile('services|app')
-	out = re.sub('.js', '.min.js', File)
-	out = re.sub('.css', '.min.css', File)
+	
+	if File.endswith('.js'): out = re.sub('.js', '.min.js', File)
+	else: out = re.sub('.css', '.min.css', File)
 	cmd = ['yuicompressor']
 	if platform.system() == 'Windows': cmd[0] = 'yuicompressor.cmd'
 	cmd.append(File)
