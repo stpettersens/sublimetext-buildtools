@@ -18,7 +18,7 @@ def invokeYUICompressor(File):
 
 	cmd.append('-o')
 	cmd.append(out)
-	print('YUI Compressor ~ Generating {0} -> {1}'.format(File, out));
+	print('YUI Compressor ~ Generating {0} -> {1}'.format(File, out))
 	call(cmd)
 
 invokeYUICompressor(sys.argv[1])
