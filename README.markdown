@@ -18,3 +18,4 @@
 * Gaudi - invoke [Gaudi](https://github.com/stpettersens/Gaudi) build tool on current JSON build file. [S].
 * JSDoc - invoke [JSDoc](https://github.com/jsdoc3/jsdoc) on current JavaScript file. [S][P].
 * JSDoc All - invoke JSDoc on all JavaScript files in current directory. [S][P].
+* YUI Compressor - invoke [YUI Compressor](https://github.com/yui/yuicompressor) on current JavaScript or CSS file. [S][P].
