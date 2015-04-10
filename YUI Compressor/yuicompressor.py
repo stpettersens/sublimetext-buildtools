@@ -5,14 +5,13 @@ import platform
 from subprocess import call
 
 def invokeYUICompressor(File):
-	pattern = re.compile('services|app')
-	
 	if File.endswith('.js'): out = re.sub('.js', '.min.js', File)
 	else: out = re.sub('.css', '.min.css', File)
 	cmd = ['yuicompressor']
 	if platform.system() == 'Windows': cmd[0] = 'yuicompressor.cmd'
 	cmd.append(File)
 
+	pattern = re.compile('services|app')
 	if pattern.match(File):
 		cmd.append('--nomunge')
 		cmd.append('--preserve-semi')
