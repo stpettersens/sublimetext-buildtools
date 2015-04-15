@@ -19,4 +19,4 @@
 * JSDoc - invoke [JSDoc](https://github.com/jsdoc3/jsdoc) on current JavaScript file. [S][P].
 * JSDoc All - invoke JSDoc on all JavaScript files in current directory. [S][P].
 * YUI Compressor - invoke [YUI Compressor](https://github.com/yui/yuicompressor) on current JavaScript or CSS file. [S][P].
-* cmongo2sql - invoke [cmongo2sql](https://github.com/stpetterses/cmongo2sql) on current MongoDB JSON dump. [S].
+* cmongo2sql - invoke [cmongo2sql](https://github.com/stpettersens/cmongo2sql) on current MongoDB JSON dump. [S].
