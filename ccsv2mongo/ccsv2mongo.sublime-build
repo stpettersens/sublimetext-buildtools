@@ -1,0 +1,5 @@
+{
+	"cmd": ["ccsv2mongo", "-l", "-f", "$file"],
+	"working_dir": "${project_path:${folder}}",
+	"selector": "source.csv"
+}

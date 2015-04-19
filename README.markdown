@@ -21,3 +21,5 @@
 * YUI Compressor - invoke [YUI Compressor](https://github.com/yui/yuicompressor) on current JavaScript or CSS file. [S][P].
 * cmongo2sql - invoke [cmongo2sql](https://github.com/stpettersens/cmongo2sql) on current MongoDB JSON dump. [S].
 * csql2mongo - invoke [csql2mongo](https://github.com/stpettersens/csql2mongo) on current SQL dump. [S].
+* ccsv2sql - invoke [ccsv2sql](https://github.com/stpettersens/ccsv2sql) on current CSV file. [S].
+* ccsv2mongo - invoke [ccsv2mongo](https://github.com/stpettersens/ccsv2mongo) on current CSV file. [S].
